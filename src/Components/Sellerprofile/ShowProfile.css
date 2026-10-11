@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+.yourproducts {
+    
+    background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
+    background-size: cover;
+    width:100%;
+    height:100vh;
+}
+.yourproducts hr{
+    color:aliceblue;
+}
